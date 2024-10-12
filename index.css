@@ -1,0 +1,82 @@
+header{
+    width: 100%;
+    background-color: green;
+    height:45px;
+    text-align: center;
+    color: white;
+    padding: 2px;
+    font-family: "Courier New" , Courier, monospace;
+}
+main{
+    background-color: blue;
+    height: 100%;
+    width: 500px;
+    color:white;
+    margin: auto;
+    padding:1px 25px;
+}
+.content{
+    font-family: Geneva, Arial;
+    font-size: 15px;
+}
+.square{
+    float:left;
+    margin:10px;
+    margin-top:0px;
+    width: 110px;
+    height:110px;
+    border: 3px solid white;
+    border-radius: 10px 0px 30px 0px;
+    border-width: 6px;
+}
+#Here{
+    word-spacing: 10px;
+    font-family: Geneva, Arial;
+    font-palette: bold;
+}
+ul.values li:first-child{
+    font-size: 1.1em;
+}
+ul.values li:last-child{
+    font-size: 1.1em;
+}
+ul.values li:nth-child(2){
+    color: rgb(60, 212, 223);
+    font-size: 1.1em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-palette: bold;
+    letter-spacing: 3px;
+}
+table{
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    width: 150px;
+    height:110px;
+    float: right;
+    margin: 7px;
+}
+article{
+    font-family: Geneva, Arial;
+}
+td{
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    text-align: center;
+    vertical-align: bottom;
+    color: white;
+}
+img{
+    float: left;
+    margin: 10px;
+}
+footer{
+    width: 100%;
+    background-color: green;
+    height:45px;
+    text-align: center;
+    color: white;
+    padding: 2px;
+    font-family: serif;
+}
